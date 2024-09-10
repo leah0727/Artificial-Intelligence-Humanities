@@ -1,1 +1,1 @@
-# holocaust-text
+# sArtificial-Intelligence-Humanities
