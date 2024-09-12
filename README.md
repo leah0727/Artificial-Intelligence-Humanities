@@ -16,3 +16,5 @@ Undergraduate Research Assistant (Adviser: Professor Ki-seong Lee)
 - Explored the impact of various factors on psychological recovery post-liberation, including age at liberation, gender, homeland, return to homeland, post-war destination, occupation post-war, family reunification, camp role, post-war support network, and health state at liberation.
 - Visualized correlations between family reunification, return to homeland, and psychological recovery.
 - Skills: Python, PyPDF2, pandas, collections, Regular Expressions (re), Matplotlib, WordCloud, CSV
+
+[2_2_aihum_poster.pdf](https://github.com/user-attachments/files/16973788/2_2_aihum_poster.pdf)
