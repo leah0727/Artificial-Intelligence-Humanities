@@ -17,4 +17,3 @@ Undergraduate Research Assistant (Adviser: Professor Ki-seong Lee)
 - Visualized correlations between family reunification, return to homeland, and psychological recovery.
 - Skills: Python, PyPDF2, pandas, collections, Regular Expressions (re), Matplotlib, WordCloud, CSV
 
-[2_2_aihum_poster.pdf](https://github.com/user-attachments/files/16973788/2_2_aihum_poster.pdf)
